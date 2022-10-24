@@ -1,3 +1,3 @@
 # Website-CSS-Houdini
 
-A brief summary of CSS Houdini on one page. Created for a university lecture project.
+The goal was to summarize a project topic on just one HTML and CSS file. Created for a university lecture.
